@@ -13,4 +13,10 @@ We have out-of-the-box solutions for collaboration, rules, meta-data, integratio
 
 # Open Source
 
+We have built several products that are coming to **open source**.  These will include classes for building composable async pipelines, a simple templating engine supporting value replacements, code expressions, token nesting, etc. and a C# implementation of JSONPath for .NET 7 System.Text.Json with a plugable expression selector.
+
+- Hyperbee.Pipeline
+- Hyperbee.Template (coming soon)
+- Hyperbee.Json (coming soon)
+
 
