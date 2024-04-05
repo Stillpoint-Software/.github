@@ -1,0 +1,22 @@
+title: "[Q&A] "
+labels: ["Q&A"]
+body:
+  - type: dropdown
+    id: download
+    attributes:
+     label: Select topic area?
+     options:
+        - Product Feedback
+        - Bug
+        - Feature
+        - General
+    validations:
+      required: true
+  - type: textarea
+    id: improvements
+    attributes:
+      label: Body
+      description: "Start your discussion!"
+      value: Ask a question or start a conversation
+    validations:
+      required: true
