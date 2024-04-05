@@ -1,0 +1,67 @@
+name: Feature Request
+description: Got a great idea?  Suggest it here
+title: "[FEATURE]: "
+labels: ["feature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Thanks for taking the time to fill out this idea for improving the project!
+
+        We love to hear any and all ideas that you may have.  It would be great to get as much detail form you as you wish to provide.
+
+        **Helpfull Links**
+        - [Code of Conduct](https://Stillpoint-Software/.github/CODE_OF_CONDUCT.md)
+        - [Contribution Guide](https://Stillpoint-Software/.github/CONTRIBUTING.md)
+        - [Security Guide](https://Stillpoint-Software/.github/SECURITY.md)
+  - type: textarea
+    id: whats-your-idea
+    attributes:
+      label: Tell us about your idea
+      description: |
+        - Give as much detail as you can to help us understand the change you want to see.
+        - Why should the projection be changed?  What use cases does it support?
+        - What is the expected outcome?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected Behavior
+      description: A concise description of what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Steps To Reproduce
+      description: Steps to reproduce the behavior.
+      placeholder: |
+        1. In this environment...
+        1. With this config...
+        1. Run '...'
+        1. See error...
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Environment
+      description: |
+        examples:
+          - **OS**: Ubuntu 20.04
+          - **Node**: 13.14.0
+          - **npm**: 7.6.3
+      value: |
+        - OS:
+        - Node:
+        - npm:
+      render: markdown
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Anything else?
+      description: |
+        Links? References? Anything that will give us more context about the issue you are encountering!
+
+        Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
+    validations:
+      required: false
