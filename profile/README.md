@@ -24,7 +24,7 @@ We have built several products to help boost your development journey with three
       - Child pipeline
       - Middleware
 
-- Hyperbee.Template: Simplify your templating needs with Hyperbee.Template. Experience the ease of creating dynamic content with this intuitive templating engine. From generating HTML to crafting emails, unlock endless possibilities for customization and efficiency in your projects. ***(coming soon)***
+- Hyperbee.Templating: Simplify your templating needs with Hyperbee.Template. Experience the ease of creating dynamic content with this intuitive templating engine. From generating HTML to crafting emails, unlock endless possibilities for customization and efficiency in your projects. 
 
   - Templating engine supporting:
     - Value replacements
@@ -36,6 +36,10 @@ We have built several products to help boost your development journey with three
 - Hyperbee.Json: Dive into the world of .NET 7 System.Text.Json with Hyperbee.json. Seamlessly navigate and manipulate JSON data using its C# implementation of JSONPath. With its plugable expression selector, tailor your JSON querying experience to your exact requirements, ensuring precision and performance in every operation.***(coming soon)***
 
   - A C# implementation of JSONPath for .NET7 **System.Text.Json** with a plugable expression selector.
+
+- Hyperbee.Resources: Provides a dependency injection pattern for embedded resources
+  
+- Hyperbee.Extensions.Dependency.Injection: General purpose service registration helpers
 
 Empower your development arsenal with these versatile open-source solutions. Embrace innovation, collaboration, and efficiency like never before.
 
