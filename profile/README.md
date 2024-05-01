@@ -33,7 +33,7 @@ We have built several products to help boost your development journey with three
     - In-line definitions
     - If/else conditions
 
-- Hyperbee.Json: Dive into the world of .NET 7 System.Text.Json with Hyperbee.json. Seamlessly navigate and manipulate JSON data using its C# implementation of JSONPath. With its plugable expression selector, tailor your JSON querying experience to your exact requirements, ensuring precision and performance in every operation.***(coming soon)***
+- Hyperbee.Json: Dive into the world of .NET 7 System.Text.Json with Hyperbee.json. Seamlessly navigate and manipulate JSON data using its C# implementation of JSONPath. With its plugable expression selector, tailor your JSON querying experience to your exact requirements, ensuring precision and performance in every operation.
 
   - A C# implementation of JSONPath for .NET7 **System.Text.Json** with a plugable expression selector.
 
