@@ -6,7 +6,7 @@ Thank you for considering contributing! We welcome contributions from the commun
 
 ### Code of Conduct
 
-By participating in a project, you agree to abide by our [Code of Conduct](./code-of-conduct.md). We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored in all our spaces.
+By participating in a project, you agree to abide by our [Code of Conduct](./CODE_OF_CONDUCT.md). We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored in all our spaces.
 
 ### How Can I Contribute?
 
