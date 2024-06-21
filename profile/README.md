@@ -33,8 +33,9 @@ We have built several projects to help boost your development productivity:
     - In-line definitions
     - If/else conditions
 
-- Hyperbee.Json: `Hyperbee.Json` is a high-performance JSONPath parser for .NET, that supports both `JsonElement` and `JsonNode`. The library is designed to be quick and extensible, allowing support for other JSON document types.
-   - JsonPath engine supporting:
+- Hyperbee.Json: `Hyperbee.Json` is a high-performance JSONPath parser for `System.Text.Json`.
+
+  - RFC-9535 conforming JsonPath engine supporting:
     - High Performance.
     - Supports both `JsonElement`, and `JsonNode`.
     - Deferred execution queries with `IEnumerable`.
