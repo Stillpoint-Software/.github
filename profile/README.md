@@ -13,9 +13,9 @@ We have out-of-the-box solutions for collaboration, rules, meta-data, integratio
 
 # Open Source
 
-We have built several products to help boost your development journey with three groundbreaking open-source tools:
+We have built several projects to help boost your development productivity:
 
-- Hyperbee.Pipeline: Revolutionize your async workflows with Hyperbee.pipeline. Easily create composable pipelines and middleware that empower seamless integration and streamlined processing of asynchronous tasks.
+- Hyperbee.Pipeline: Easily create async workflows using composable pipelines, and middleware that empowers seamless integration and streamlined processing of asynchronous tasks.
 
    -  Composable async pipelines supporting
       - Condition flow
@@ -24,7 +24,7 @@ We have built several products to help boost your development journey with three
       - Child pipeline
       - Middleware
 
-- Hyperbee.Templating: Simplify your templating with Hyperbee.Template. Create dynamic content with this intuitive templating engine.  
+- Hyperbee.Templating: Lightweight, fast, and powerful templating and variable engine that allows you to easily create dynamic content.  
 
   - Templating engine supporting:
     - Value replacements
