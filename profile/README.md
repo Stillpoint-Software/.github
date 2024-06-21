@@ -13,7 +13,7 @@ We have out-of-the-box solutions for collaboration, rules, meta-data, integratio
 
 # Open Source
 
-We have built several projects to help boost your development productivity:
+We have built several open-source projects to help boost your development productivity:
 
 - Hyperbee.Pipeline: Easily create async workflows using composable pipelines, and middleware that empowers seamless integration and streamlined processing of asynchronous tasks.
 
