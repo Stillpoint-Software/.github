@@ -35,11 +35,10 @@ We have built several open-source projects to help boost your development produc
 
 - Hyperbee.Json: `Hyperbee.Json` is a high-performance JSONPath parser for `System.Text.Json`.
 
-  - RFC-9535 conforming JsonPath engine supporting:
+  - RFC-9535 conforming JsonPath engine:
     - High Performance.
     - Supports both `JsonElement`, and `JsonNode`.
     - Deferred execution queries with `IEnumerable`.
-    - Focus on consensus implementation.
     - Extendable to support additional JSON document types and functions.
 
 - Hyperbee.Resources: Provides a dependency injection pattern for embedded resources
