@@ -2,26 +2,30 @@
 
 # Startup Thinking at Enterprise Scale
 
-We are a product and development consultancy. We work with forward-thinking teams to improve actionability with their products, customers, partners, and one another.
+We are a product and development consultancy. We work with teams to improve actionability with their products, customers, partners, and one another.
 
-We provide a full range of software development services, and technology, for startups and enterprises that want to move quickly. We specialize in solving complex productization and development problems across industries, including healthcare, telecommunications, financial services, and media companies.
-We have out-of-the-box solutions for collaboration, rules, meta-data, integrations, security, deployment, and continuous integration that allow you to focus your resources on what matters. Our technology stacks and APIs will get you to MVP faster on a foundation that will grow with you.
-
-# Our Technology
-
-We have out-of-the-box solutions for collaboration, rules, meta-data, integrations, security, deployment, and continuous integration that allow you to focus your resources on what matters. Our technology stacks and APIs will get you to MVP faster on a foundation that will grow with you.
+We provide a full range of software development services, and technology, for startups and enterprises that want to move quickly. We specialize in solving complex productization and development problems across industries, including healthcare, telecommunications, and financial services.
+We have out-of-the-box solutions for collaboration, rules, meta-data, integrations, security, deployment, and continuous integration that allow you to focus your resources on what matters. Our stacks will get you to MVP faster on a foundation that will grow with you.
 
 # Open Source
 
 We have built several open-source projects to help boost your development productivity:
 
-- Hyperbee.Pipeline: Easily create async workflows using composable pipelines, and middleware that empowers seamless integration and streamlined processing of asynchronous tasks.
+- Hyperbee.Json: `Hyperbee.Json` is a high-performance JSONPath parser for `System.Text.Json`.
+
+  - RFC-9535 conforming JsonPath engine:
+    - High Performance.
+    - Supports both `JsonElement`, and `JsonNode`.
+    - Deferred execution queries with `IEnumerable`.
+    - Extendable to support additional JSON document types and functions.
+      
+- Hyperbee.Pipeline: Easily create async workflows using composable pipelines, and middleware, that streamlines processing of asynchronous tasks.
 
    -  Composable async pipelines supporting
       - Condition flow
       - Value projections
-      - Early return
-      - Child pipeline
+      - Early returns
+      - Child pipelines
       - Middleware
 
 - Hyperbee.Templating: Lightweight, fast, and powerful templating and variable engine that allows you to easily create dynamic content.  
@@ -33,20 +37,9 @@ We have built several open-source projects to help boost your development produc
     - In-line definitions
     - If/else conditions
 
-- Hyperbee.Json: `Hyperbee.Json` is a high-performance JSONPath parser for `System.Text.Json`.
-
-  - RFC-9535 conforming JsonPath engine:
-    - High Performance.
-    - Supports both `JsonElement`, and `JsonNode`.
-    - Deferred execution queries with `IEnumerable`.
-    - Extendable to support additional JSON document types and functions.
-
 - Hyperbee.Resources: Provides a dependency injection pattern for embedded resources
   
 - Hyperbee.Extensions.Dependency.Injection: General purpose service registration helpers
-
-Empower your development arsenal with these versatile open-source solutions. 
-
 
 ## LICENSE
 
