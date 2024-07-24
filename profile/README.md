@@ -2,10 +2,12 @@
 
 # Startup Thinking at Enterprise Scale
 
-We are a product and development consultancy. We work with teams to improve actionability with their products, customers, partners, and one another.
+We are a development consultancy that helps teams improve their products and workflows.
 
-We offer a full range of software development services, and technology, for startups and enterprises that want to move quickly. We specialize in solving complex productization and development problems across industries, including healthcare, telecommunications, and financial services.
-We have out-of-the-box solutions for collaboration, rules, meta-data, integrations, security, deployment, and continuous integration that allow you to focus your resources on what matters. Our stacks will get you to MVP faster on a foundation that will grow with you.
+We offer a range of software development services to startups and enterprises that want to move quickly. Specializing in complex development challenges 
+across industries like healthcare, telecommunications, and financial services, we provide ready-made solutions for collaboration, rules, meta-data, 
+integrations, security, deployment, and continuous integration. This allows you to focus on what matters. Our technology stacks help you reach your MVP 
+faster and provide a solid foundation for future growth.
 
 # Open Source
 
