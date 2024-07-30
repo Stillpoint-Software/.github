@@ -5,7 +5,7 @@
 We are a development consultancy that helps teams improve their products and workflows.
 
 We offer a range of software development services to startups and enterprises that want to move quickly. Specializing in complex development challenges 
-across industries like healthcare, telecommunications, and financial services, we provide ready-made solutions for collaboration, rules, meta-data, 
+across industries like healthcare, telecommunications, and financial services. We have ready-made solutions for collaboration, rules, meta-data, 
 integrations, security, deployment, and continuous integration. This allows you to focus on what matters. Our technology stacks help you reach your MVP 
 faster and provide a solid foundation for future growth.
 
