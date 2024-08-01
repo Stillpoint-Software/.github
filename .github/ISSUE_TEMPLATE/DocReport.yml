@@ -1,0 +1,11 @@
+name: Documentation Update
+description: Suggest an update to the documentation
+title: "[DOCS]: "
+labels: ["documentation"]
+body:
+  - type: textarea
+    attributes:
+      label: Documentation Issue
+      description: Describe the problem with the current documentation and any recommended changes.
+    validations:
+      required: true
