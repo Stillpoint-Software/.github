@@ -13,13 +13,16 @@ faster and provide a solid foundation for future growth.
 
 We have built several open-source projects to help boost your development productivity:
 
-- **[Hyperbee.Json](https://github.com/Stillpoint-Software/hyperbee.json):** `Hyperbee.Json` is a high-performance JSONPath parser for `System.Text.Json`.
+- **[Hyperbee.Json](https://github.com/Stillpoint-Software/hyperbee.json):** A high-performance JSON library for `System.Text.Json`, `JsonElement`, and `JsonNode`, providing robust support for JSONPath, JsonPointer, JsonPatch, and JsonDiff.
 
   - RFC-9535 conforming JsonPath engine:
     - High Performance.
     - Supports both `JsonElement`, and `JsonNode`.
     - Deferred execution queries with `IEnumerable`.
     - Extendable to support additional JSON document types and functions.
+  - JsonPointer
+  - JsonPatch
+  - JsonDiff
       
 - **[Hyperbee.Pipeline](https://github.com/Stillpoint-Software/hyperbee.pipeline):** Easily create async workflows using composable pipelines, and middleware, that streamlines processing of asynchronous tasks.
 
