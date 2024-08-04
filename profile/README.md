@@ -2,7 +2,7 @@
 
 # Startup Thinking at Enterprise Scale
 
-We are a development consultancy that helps teams improve their products and workflows.
+We are a development shop that helps teams improve their products and workflows.
 
 We offer a range of software development services to startups and enterprises that want to move quickly. Specializing in complex development challenges 
 across industries like healthcare, telecommunications, and financial services. We have ready-made solutions for collaboration, rules, meta-data, 
