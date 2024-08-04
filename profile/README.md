@@ -13,7 +13,7 @@ faster and provide a solid foundation for future growth.
 
 We have built several open-source projects to help boost your development productivity:
 
-- **Hyperbee.Json:** `Hyperbee.Json` is a high-performance JSONPath parser for `System.Text.Json`.
+- **[Hyperbee.Json](https://github.com/Stillpoint-Software/hyperbee.json):** `Hyperbee.Json` is a high-performance JSONPath parser for `System.Text.Json`.
 
   - RFC-9535 conforming JsonPath engine:
     - High Performance.
@@ -21,7 +21,7 @@ We have built several open-source projects to help boost your development produc
     - Deferred execution queries with `IEnumerable`.
     - Extendable to support additional JSON document types and functions.
       
-- **Hyperbee.Pipeline:** Easily create async workflows using composable pipelines, and middleware, that streamlines processing of asynchronous tasks.
+- **[Hyperbee.Pipeline](https://github.com/Stillpoint-Software/hyperbee.pipeline):** Easily create async workflows using composable pipelines, and middleware, that streamlines processing of asynchronous tasks.
 
    -  Composable async pipelines supporting
       - Condition flow
@@ -30,7 +30,7 @@ We have built several open-source projects to help boost your development produc
       - Child pipelines
       - Middleware
 
-- **Hyperbee.Templating:** Lightweight, fast, and powerful templating and variable engine that allows you to easily create dynamic content.  
+- **[Hyperbee.Templating](https://github.com/Stillpoint-Software/hyperbee.templating):** Lightweight, fast, and powerful templating and variable engine that allows you to easily create dynamic content.  
 
   - Templating engine supporting:
     - Value replacements
@@ -39,7 +39,7 @@ We have built several open-source projects to help boost your development produc
     - In-line definitions
     - If/else conditions
 
-- **Hyperbee.Migrations:** An extensible migration runner for SQL and NoSQL.
+- **[Hyperbee.Migrations](https://github.com/Stillpoint-Software/hyperbee.migrations):** An extensible migration runner for SQL and NoSQL.
 
   - Supports Couchbase, MongoDB and Postgresql
   - Extensible to support other databases
