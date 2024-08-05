@@ -2,12 +2,17 @@
 
 # Startup Thinking at Enterprise Scale
 
-We are a development shop that helps teams improve their products and workflows.
+We are an IT Thought Works and Execution shop. We specialize in solving complex enterprise software development and productization problems.
+
+- Development as a service
+- Team building and process transformation
+- Assessments and Roadmap planning and vision
+- Lifecycle Management and DevOps engineering
 
 We offer a range of software development services to startups and enterprises that want to move quickly. Specializing in complex development challenges 
-across industries like healthcare, telecommunications, and financial services. We have ready-made solutions for collaboration, rules, meta-data, 
-integrations, security, deployment, and continuous integration. This allows you to focus on what matters. Our technology stacks help you reach your MVP 
-faster and provide a solid foundation for future growth.
+across industries like healthcare, telecommunications, and financial services. We have ready-made frameworks and processes for scalable architectures
+that consider security, integrations, compliance, auditing, deployment, and continuous integration. This allows you to focus on what matters. Our 
+technology stacks help you reach your MVP faster and provide a solid foundation for future growth.
 
 # Open Source
 
