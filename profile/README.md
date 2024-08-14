@@ -46,6 +46,7 @@ We have built several open-source projects to help boost your development produc
     - Token nesting
     - In-line definitions
     - If/else conditions
+    - Looping
 
 - **[Hyperbee.Migrations](https://github.com/Stillpoint-Software/hyperbee.migrations):** An extensible migration runner for SQL and NoSQL.
 
