@@ -2,16 +2,16 @@
 
 # Startup Thinking at Scale
 
-We solve complex enterprise software development and productization problems.
+We solve complex enterprise software development and productization problems for startups and enterprises that want to move quickly.
 
 - Development as a service
 - Team building and process transformation
 - Assessments and Roadmap planning and vision
 - Lifecycle Management and DevOps engineering
 
-We work with startups and enterprises that want to move quickly. We specialize in solving complex development challenges across industries like healthcare, 
-telecommunications, and financial services. We have ready-made frameworks and processes for scalable architectures that consider security, integrations, 
-compliance, auditing, deployment, and continuous integration. This allows you to focus on what matters and provides a solid foundation for future growth.
+We specialize in solving complex development challenges across industries like healthcare, telecommunications, and financial services. We have ready-made 
+frameworks and processes for scalable architectures that consider security, integrations, compliance, auditing, deployment, and continuous integration. 
+This allows you to focus on what matters and provides a solid foundation for future growth.
 
 # Open Source
 
