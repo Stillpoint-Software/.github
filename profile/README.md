@@ -9,9 +9,9 @@ We specialize in solving complex enterprise software development and productizat
 - Assessments and Roadmap planning and vision
 - Lifecycle Management and DevOps engineering
 
-We offer a range of software development services to startups and enterprises that want to move quickly. We specialize in complex development challenges 
-across industries like healthcare, telecommunications, and financial services. We have ready-made frameworks and processes for scalable architectures
-that consider security, integrations, compliance, auditing, deployment, and continuous integration. This allows you to focus on what matters. Our 
+We work with startups and enterprises that want to move quickly. We specialize in complex development challenges across industries like 
+healthcare, telecommunications, and financial services. We have ready-made frameworks and processes for scalable architectures that consider 
+security, integrations, compliance, auditing, deployment, and continuous integration. This allows you to focus on what matters. Our 
 technology stacks help you reach your goals faster and provide a solid foundation for future growth.
 
 # Open Source
