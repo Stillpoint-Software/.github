@@ -28,12 +28,14 @@ We have built several open-source projects to help boost your development produc
   - JsonPatch
   - JsonDiff
  
-- **[Hyperbee.Expressions](https://github.com/Stillpoint-Software/hyperbee.expressions):** Async/await for Expression Trees.
+- **[Hyperbee.Expressions](https://github.com/Stillpoint-Software/hyperbee.expressions):** Extends the capabilities of expression trees to handle async await and other language constructs.
 
   - Extend the capabilities of C# Expression Trees
-    - Await Expressions.
-    - Async Block Expressions.
-    - Automatic state machine generation.
+    - Await Expressions
+    - Async Block Expressions
+    - Using Expression
+    - For/ForEach/While Expressions
+    - More ..
       
 - **[Hyperbee.Pipeline](https://github.com/Stillpoint-Software/hyperbee.pipeline):** Easily create async workflows using composable pipelines, and middleware, that streamlines processing of asynchronous tasks.
 
