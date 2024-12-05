@@ -15,7 +15,3 @@ _Please include a brief summary of the changes. Mention any related issues or fe
 - [ ] I have run the existing benchmarks and verified performance has not decreased
 - [ ] I have added new tests that prove my change is effective or that my feature works
 - [ ] I have added the necessary documentation (if applicable)
-
-## Additional Notes
-
-_Include any other relevant information here._
