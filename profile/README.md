@@ -2,7 +2,7 @@
 
 # Startup Thinking at Scale
 
-We solve complex enterprise software development and productization problems for startups and enterprises that want to move quickly.
+We solve complex enterprise software development and productization problems for startups and enterprises that need to move quickly.
 
 - Development as a service
 - Team building and process transformation
