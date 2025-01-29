@@ -36,6 +36,13 @@ We have built several open-source projects to help boost your development produc
     - Using Expression
     - For/ForEach/While Expressions
     - More ..
+
+- **[Hyperbee.XS](https://github.com/Stillpoint-Software/hyperbee.xs):** A lightweight, high-performance scripting language built on expression trees.
+
+  - Expression Tree Native – Directly generates and executes expression trees.
+  - Extensible Language – Supports custom constructs like `async\await`, `foreach`, `while`, `try/catch`, `using`, and more.
+  - Ideal for DSLs – Provides a customizable foundation for rule engines, dynamic queries, and embedded scripting.
+  - Performance-Optimized
       
 - **[Hyperbee.Pipeline](https://github.com/Stillpoint-Software/hyperbee.pipeline):** Easily create async workflows using composable pipelines, and middleware, that streamlines processing of asynchronous tasks.
 
